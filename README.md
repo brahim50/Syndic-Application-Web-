@@ -1,0 +1,2 @@
+# laravelSyndica
+Laravel Project
